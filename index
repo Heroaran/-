@@ -8,19 +8,19 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta http-equiv=Content-Type content="text/html; charset=ks_c_5601-1987">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/filelist.xml">
+<link rel=File-List href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/filelist.xml">
 <![if !supportTabStrip]>
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet001.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet002.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet003.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet004.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet005.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet006.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet007.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet008.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet009.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet010.htm">
-<link id="shLink" href="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet011.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet001.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet002.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet003.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet004.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet005.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet006.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet007.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet008.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet009.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet010.htm">
+<link id="shLink" href="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet011.htm">
 
 <link id="shLink">
 
@@ -29,17 +29,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
  var c_lTabs=11;
 
  var c_rgszSh=new Array(c_lTabs);
- c_rgszSh[0] = "!!&nbsp;гй╣╤&nbsp;!!";
- c_rgszSh[1] = "╨РеД╦╝╬ф&nbsp;╬фюо╥ё╣Е";
- c_rgszSh[2] = "©╓Ё╙╫╨&nbsp;╩Й╦ф";
- c_rgszSh[3] = "╥Г╢У╫╨&nbsp;хё╪Ж";
- c_rgszSh[4] = "╬фдМ╬ф╥н╣Е";
- c_rgszSh[5] = "╢огр&nbsp;╩Г╦╥";
- c_rgszSh[6] = "╧╚╦╙╣╣©Ь";
- c_rgszSh[7] = "╧лЁ╙╦ё╫ё&nbsp;&nbsp;╫ц╟ёюг&nbsp;╫еюЭ";
- c_rgszSh[8] = "гь©э©╘гЮ";
- c_rgszSh[9] = "╥╧юл╣Е&nbsp;╨╦╫╨";
- c_rgszSh[10] = "╧╝╪╜&nbsp;©╙╩Г╢ы╦╔&nbsp;╣╔юлем╨ёюл╫╨╥н&nbsp;юл╣©";
+ c_rgszSh[0] = "!!&nbsp;М∙└К▐┘&nbsp;!!";
+ c_rgszSh[1] = "К╧┘М├═К╕╛Л∙└&nbsp;Л∙└Л²╪К·°К⌠°";
+ c_rgszSh[2] = "Л≈≤К┌≤Л┼╓&nbsp;Л┌╟К╖╔";
+ c_rgszSh[3] = "Кё╗К█■Л┼╓&nbsp;М≤╦Л┬≤";
+ c_rgszSh[4] = "Л∙└Л©═Л∙└К║°К⌠°";
+ c_rgszSh[5] = "К▀┬М∙═&nbsp;Л┌╛К╖┴";
+ c_rgszSh[6] = "К╛╢К╕┴К▐└Л⌡░";
+ c_rgszSh[7] = "К╞╦К┌≤К╔╢Л┬╡&nbsp;&nbsp;Л▀°Й╟└Л²≤&nbsp;Л▀═Л═└";
+ c_rgszSh[8] = "М∙╢Л≥╦Л≈╛М√┴";
+ c_rgszSh[9] = "К═┬Л²╢К⌠°&nbsp;КЁ╢Л┼╓";
+ c_rgszSh[10] = "К╛╦Л└°&nbsp;Л≈╜Л┌╛К▀╓К╔╦&nbsp;К█╟Л²╢М└╟К╡═Л²╢Л┼╓К║°&nbsp;Л²╢К▐≥";
 
 
 
@@ -107,7 +107,7 @@ function fnBuildTabStrip()
  szHTML =
   "<html><head>"+
   "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+
-  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt ╠╪╦╡;padding-left:3px;padding-right:3px;text-align:center;}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Й╣╢К╕╪;padding-left:3px;padding-right:3px;text-align:center;}"+
   ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
   "</style></head><body onload=\"parent.fnInit();\" onselectstart=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+
   " topmargin=0 leftmargin=0><table id=tbTabs cellpadding=0 cellspacing=0>";
@@ -317,51 +317,51 @@ function fnSetActiveSheet(iSh)
  <x:ExcelWorkbook>
   <x:ExcelWorksheets>
    <x:ExcelWorksheet>
-    <x:Name>!! гй╣╤ !!</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet001.htm"/>
+    <x:Name>!! М∙└К▐┘ !!</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet001.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>╨РеД╦╝╬ф ╬фюо╥ё╣Е</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet002.htm"/>
+    <x:Name>К╧┘М├═К╕╛Л∙└ Л∙└Л²╪К·°К⌠°</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet002.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>©╓Ё╙╫╨ ╩Й╦ф</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet003.htm"/>
+    <x:Name>Л≈≤К┌≤Л┼╓ Л┌╟К╖╔</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet003.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>╥Г╢У╫╨ хё╪Ж</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet004.htm"/>
+    <x:Name>Кё╗К█■Л┼╓ М≤╦Л┬≤</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet004.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>╬фдМ╬ф╥н╣Е</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet005.htm"/>
+    <x:Name>Л∙└Л©═Л∙└К║°К⌠°</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet005.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>╢огр ╩Г╦╥</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet006.htm"/>
+    <x:Name>К▀┬М∙═ Л┌╛К╖┴</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet006.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>╧╚╦╙╣╣©Ь</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet007.htm"/>
+    <x:Name>К╛╢К╕┴К▐└Л⌡░</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet007.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>╧лЁ╙╦ё╫ё  ╫ц╟ёюг ╫еюЭ</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet008.htm"/>
+    <x:Name>К╞╦К┌≤К╔╢Л┬╡  Л▀°Й╟└Л²≤ Л▀═Л═└</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet008.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>гь©э©╘гЮ</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet009.htm"/>
+    <x:Name>М∙╢Л≥╦Л≈╛М√┴</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet009.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>╥╧юл╣Е ╨╦╫╨</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet010.htm"/>
+    <x:Name>К═┬Л²╢К⌠° КЁ╢Л┼╓</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet010.htm"/>
    </x:ExcelWorksheet>
    <x:ExcelWorksheet>
-    <x:Name>╧╝╪╜ ©╙╩Г╢ы╦╔ ╣╔юлем╨ёюл╫╨╥н юл╣©</x:Name>
-    <x:WorksheetSource HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet011.htm"/>
+    <x:Name>К╛╦Л└° Л≈╜Л┌╛К▀╓К╔╦ К█╟Л²╢М└╟К╡═Л²╢Л┼╓К║° Л²╢К▐≥</x:Name>
+    <x:WorksheetSource HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet011.htm"/>
    </x:ExcelWorksheet>
   </x:ExcelWorksheets>
-  <x:Stylesheet HRef="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/stylesheet.css"/>
+  <x:Stylesheet HRef="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/stylesheet.css"/>
   <x:WindowHeight>12165</x:WindowHeight>
   <x:WindowWidth>28800</x:WindowWidth>
   <x:WindowTopX>0</x:WindowTopX>
@@ -375,11 +375,11 @@ function fnSetActiveSheet(iSh)
 </head>
 
 <frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
- <frame src="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/sheet009.htm" name="frSheet">
- <frame src="╬ф╦ёевюо%20╦С╫╨ем%20╣╔юлем╨ёюл╫╨.files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
+ <frame src="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/sheet009.htm" name="frSheet">
+ <frame src="Л∙└К╔╢М┘▄Л²╪%20К╙╛Л┼╓М└╟%20К█╟Л²╢М└╟К╡═Л²╢Л┼╓.files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
  <noframes>
   <body>
-   <p>юл фДюлаЖ©║╢б га╥╧юсюл южаЖ╦╦ ╩Г©К аъюн ╨Й╤С©ЛюЗ©║╪╜ га╥╧юсю╩ аЖ©ЬгоаЖ ╬й╫ю╢о╢ы.</p>
+   <p>Л²╢ М▌≤Л²╢Л╖─Л≈░К┼■ М■└К═┬Л·└Л²╢ Л·┬Л╖─К╖▄ Л┌╛Л ╘ Л╓▒Л²╦ К╦▄К²╪Л ╟Л═─Л≈░Л└° М■└К═┬Л·└Л²└ Л╖─Л⌡░М∙≤Л╖─ Л∙┼Л┼╣К▀┬К▀╓.</p>
   </body>
  </noframes>
 </frameset>
