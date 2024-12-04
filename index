@@ -1,386 +1,128 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MapleLegends Library</title>
 
-<head>
-<meta name="Excel Workbook Frameset">
-<meta http-equiv=Content-Type content="text/html; charset=ks_c_5601-1987">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List href="아르테일%20몬스터%20데이터베이스.files/filelist.xml">
-<![if !supportTabStrip]>
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet001.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet002.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet003.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet004.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet005.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet006.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet007.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet008.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet009.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet010.htm">
-<link id="shLink" href="아르테일%20몬스터%20데이터베이스.files/sheet011.htm">
+    <link rel="shortcut icon" href="/static/newlibiconopen.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/static/css/font-awesome.min.css">
 
-<link id="shLink">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="maplestory private server, nostalgic maplestory server, maplestory private servers" />
+    <meta name="description" content="Missing the old MapleStory? Feeling Nostalgic? Play Old School MapleStory at MapleLegends for free!" />
 
-<script language="JavaScript">
-<!--
- var c_lTabs=11;
+    <meta property="og:site_name" content="MapleLegends">
+    <meta property="og:title" content="MapleLegends - Play Old School MapleStory for FREE since 2015">
+    <meta property="og:image" content="https://www.maplelegends.com/static/images/og_image.png">
+    <meta property="og:description" content="Old School MapleStory is back! Play classic MapleStory at MapleLegends for FREE! Available since April 2015. JOIN NOW and go back in time...">
 
- var c_rgszSh=new Array(c_lTabs);
- c_rgszSh[0] = "!!&nbsp;필독&nbsp;!!";
- c_rgszSh[1] = "빅토리아&nbsp;아일랜드";
- c_rgszSh[2] = "엘나스&nbsp;산맥";
- c_rgszSh[3] = "루더스&nbsp;호수";
- c_rgszSh[4] = "아쿠아로드";
- c_rgszSh[5] = "니할&nbsp;사막";
- c_rgszSh[6] = "무릉도원";
- c_rgszSh[7] = "미나르숲&nbsp;&nbsp;시간의&nbsp;신전";
- c_rgszSh[8] = "해외여행";
- c_rgszSh[9] = "레이드&nbsp;보스";
- c_rgszSh[10] = "문서&nbsp;역사다른&nbsp;데이터베이스로&nbsp;이동";
+    <script type="0b16c65c5907cc6f0bf41b7a-text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script type="0b16c65c5907cc6f0bf41b7a-text/javascript" src="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
+    <link rel="stylesheet" href="/static/css/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/lib/style.css?v=1.69">
+    
+    <script type="0b16c65c5907cc6f0bf41b7a-text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+      ga('create', 'UA-104912168-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </head>
 
- var c_rgszClr=new Array(8);
- c_rgszClr[0]="window";
- c_rgszClr[1]="buttonface";
- c_rgszClr[2]="windowframe";
- c_rgszClr[3]="windowtext";
- c_rgszClr[4]="threedlightshadow";
- c_rgszClr[5]="threedhighlight";
- c_rgszClr[6]="threeddarkshadow";
- c_rgszClr[7]="threedshadow";
+<body style="background-color:#333333">
+  <img class="visible-lg" src="/static/images/creepymush.png" style="height: 15%; right: 0px; bottom: 0px; position: fixed">
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/lib/"><img style="max-height: 150%" src="/static/images/MLliblogo_cropped.png"></a>
+      </div>
 
- var g_iShCur;
- var g_rglTabX=new Array(c_lTabs);
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Equips <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li class=""><a href="/lib/weapon">Weapon</a></li>
+              <li class=""><a href="/lib/hat">Hat</a></li>
+              <li class=""><a href="/lib/top">Top</a></li>
+              <li class=""><a href="/lib/bottom">Bottom</a></li>
+              <li class=""><a href="/lib/overall">Overall</a></li>
+              <li class=""><a href="/lib/shoes">Shoes</a></li>
+              <li class=""><a href="/lib/gloves">Gloves</a></li>
+              <li class=""><a href="/lib/cape">Cape</a></li>
+              <li class=""><a href="/lib/shield">Shield</a></li>
+              <li class=""><a href="/lib/faceacc">Face Acc</a></li>
+              <li class=""><a href="/lib/eyeacc">Eye Acc</a></li>
+              <li class=""><a href="/lib/earring">Earrings</a></li>
+              <li class=""><a href="/lib/ring">Ring</a></li>
+              <li class=""><a href="/lib/pendant">Pendant</a></li>
+            </ul>
+          </li>
+          <li class=""><a href="/lib/monster">Monster</a></li>
+          <li class=""><a href="/lib/npc">NPC</a></li>
+          <li class=""><a href="/lib/map">Map</a></li>
+          <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Items <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li class=""><a href="/lib/use">Use</a></li>
+              <li class=""><a href="/lib/setup">Setup</a></li>
+              <li class=""><a href="/lib/etc">Etc</a></li>
+              <li class=""><a href="/lib/cash">Cash</a></li>
+            </ul>
+          </li>
+          <li class=""><a href="/lib/skill">Skill</a></li>
+          <li class=""><a href="/lib/quest">Quest</a></li>
+          <li class=""><a href="/lib/exptable">Exptable</a></li>
+        </ul>
+        <form class="navbar-form navbar-right" role="search" action="/lib/all">
+          <div class="form-group">
+            <input name="search" type="text" class="form-control" placeholder="Global search...">
+          </div>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+  <div class="container">
+      <div class="well">
+        <div style="margin-bottom: 50px" class="row">
+  <div class="col-md-12">
+    <center>
+      <img class="img-responsive" src="https://i.imgur.com/hLRKyk3.png">
+    </center>
+  </div>
+</div>
+<div style="margin-bottom: 50px" class="row">
+  <form method="GET" action="/lib/all">
+    <div class="col-sm-8 col-sm-offset-1 col-xs-8">
+      <div class="form-group">
+        <input name="search" type="text" class="form-control" placeholder="Global search...">
+      </div>
+    </div>
+    <div style="position: relative" class="col-sm-2 col-xs-4">
+      <button type="submit" class="btn btn-default btn-block">
+        Submit
+        <img style="position: absolute; top: -50px; right: 0px" src="https://i.imgur.com/QkwZM6J.png">
+      </button>
+    </div>
+  </form>
+</div>
 
-function fnGetIEVer()
-{
- var ua=window.navigator.userAgent
- var msie=ua.indexOf("MSIE")
- if (msie>0 && window.navigator.platform=="Win32")
-  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
- else
-  return 0;
-}
-
-function fnBuildFrameset()
-{
- var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\""+document.all.item("shLink")[8].href+"\" name=\"frSheet\" noresize>"+
-  "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "</frameset></frameset><plaintext>";
-
- with (document) {
-  open("text/html","replace");
-  write(szHTML);
-  close();
- }
-
- fnBuildTabStrip();
-}
-
-function fnBuildTabStrip()
-{
- var szHTML=
-  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+";cursor:default;line-height:10pt;}"+
-  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-height:11pt;}</style></head>"+
-  "<body onclick=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" onselectstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+" topmargin=0 leftmargin=0><table cellpadding=0 cellspacing=0 width=100%>"+
-  "<tr><td colspan=6 height=1 bgcolor="+c_rgszClr[2]+"></td></tr>"+
-  "<tr><td style=\"font:1pt\">&nbsp;<td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(0);\" onmouseout=\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(0);\" ondblclick=\"parent.fnScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(1);\" onmouseout=\"parent.fnMouseOutScroll(1);\"><a>&lt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(1);\" ondblclick=\"parent.fnScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(2);\" onmouseout=\"parent.fnMouseOutScroll(2);\"><a>&gt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(3);\" onmouseout=\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
-  "<td style=\"font:1pt\">&nbsp;<td></tr></table></body></html>";
-
- with (frames['frScroll'].document) {
-  open("text/html","replace");
-  write(szHTML);
-  close();
- }
-
- szHTML =
-  "<html><head>"+
-  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+
-  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt 굴림;padding-left:3px;padding-right:3px;text-align:center;}"+
-  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
-  "</style></head><body onload=\"parent.fnInit();\" onselectstart=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+
-  " topmargin=0 leftmargin=0><table id=tbTabs cellpadding=0 cellspacing=0>";
-
- var iCellCount=(c_lTabs+1)*2;
-
- var i;
- for (i=0;i<iCellCount;i+=2)
-  szHTML+="<col width=1><col>";
-
- var iRow;
- for (iRow=0;iRow<6;iRow++) {
-
-  szHTML+="<tr>";
-
-  if (iRow==5)
-   szHTML+="<td colspan="+iCellCount+"></td>";
-  else {
-   if (iRow==0) {
-    for(i=0;i<iCellCount;i++)
-     szHTML+="<td height=1 class=\"clBorder\"></td>";
-   } else if (iRow==1) {
-    for(i=0;i<c_lTabs;i++) {
-     szHTML+="<td height=1 nowrap class=\"clBorder\">&nbsp;</td>";
-     szHTML+=
-      "<td id=tdTab height=1 nowrap class=\"clTab\" onmouseover=\"parent.fnMouseOverTab("+i+");\" onmouseout=\"parent.fnMouseOutTab("+i+");\">"+
-      "<a href=\""+document.all.item("shLink")[i].href+"\" target=\"frSheet\" id=aTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
-    }
-    szHTML+="<td id=tdTab height=1 nowrap class=\"clBorder\"><a id=aTab>&nbsp;</a></td><td width=100%></td>";
-   } else if (iRow==2) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1></td><td height=1 class=\"clBorder\"></td>";
-    szHTML+="<td height=1></td><td height=1></td>";
-   } else if (iRow==3) {
-    for (i=0;i<iCellCount;i++)
-     szHTML+="<td height=1></td>";
-   } else if (iRow==4) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1 width=1></td><td height=1></td>";
-    szHTML+="<td height=1 width=1></td><td></td>";
-   }
-  }
-  szHTML+="</tr>";
- }
-
- szHTML+="</table></body></html>";
- with (frames['frTabs'].document) {
-  open("text/html","replace");
-  charset=document.charset;
-  write(szHTML);
-  close();
- }
-}
-
-function fnInit()
-{
- g_rglTabX[0]=0;
- var i;
- for (i=1;i<=c_lTabs;i++)
-  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
-   g_rglTabX[i]=offsetLeft+offsetWidth-6;
-}
-
-function fnTabToCol(iTab)
-{
- return 2*iTab+1;
-}
-
-function fnNextTab(fDir)
-{
- var iNextTab=-1;
- var i;
-
- with (frames['frTabs'].document.body) {
-  if (fDir==0) {
-   if (scrollLeft>0) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i-1;
-   }
-  } else {
-   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<=scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i;
-   }
-  }
- }
- return iNextTab;
-}
-
-function fnScrollTabs(fDir)
-{
- var iNextTab=fnNextTab(fDir);
-
- if (iNextTab>=0) {
-  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
-  return true;
- } else
-  return false;
-}
-
-function fnFastScrollTabs(fDir)
-{
- if (c_lTabs>16)
-  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
- else
-  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");",5);
-}
-
-function fnSetTabProps(iTab,fActive)
-{
- var iCol=fnTabToCol(iTab);
- var i;
-
- if (iTab>=0) {
-  with (frames['frTabs'].document.all) {
-   with (tbTabs) {
-    for (i=0;i<=4;i++) {
-     with (rows[i]) {
-      if (i==0)
-       cells[iCol].style.background=c_rgszClr[fActive?0:2];
-      else if (i>0 && i<4) {
-       if (fActive) {
-        cells[iCol-1].style.background=c_rgszClr[2];
-        cells[iCol].style.background=c_rgszClr[0];
-        cells[iCol+1].style.background=c_rgszClr[2];
-       } else {
-        if (i==1) {
-         cells[iCol-1].style.background=c_rgszClr[2];
-         cells[iCol].style.background=c_rgszClr[1];
-         cells[iCol+1].style.background=c_rgszClr[2];
-        } else {
-         cells[iCol-1].style.background=c_rgszClr[4];
-         cells[iCol].style.background=c_rgszClr[(i==2)?2:4];
-         cells[iCol+1].style.background=c_rgszClr[4];
-        }
-       }
-      } else
-       cells[iCol].style.background=c_rgszClr[fActive?2:4];
-     }
-    }
-   }
-   with (aTab[iTab].style) {
-    cursor=(fActive?"default":"hand");
-    color=c_rgszClr[3];
-   }
-  }
- }
-}
-
-function fnMouseOverScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[7];
-}
-
-function fnMouseOutScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[6];
-}
-
-function fnMouseOverTab(iTab)
-{
- if (iTab!=g_iShCur) {
-  var iCol=fnTabToCol(iTab);
-  with (frames['frTabs'].document.all) {
-   tdTab[iTab].style.background=c_rgszClr[5];
-  }
- }
-}
-
-function fnMouseOutTab(iTab)
-{
- if (iTab>=0) {
-  var elFrom=frames['frTabs'].event.srcElement;
-  var elTo=frames['frTabs'].event.toElement;
-
-  if ((!elTo) ||
-   (elFrom.tagName==elTo.tagName) ||
-   (elTo.tagName=="A" && elTo.parentElement!=elFrom) ||
-   (elFrom.tagName=="A" && elFrom.parentElement!=elTo)) {
-
-   if (iTab!=g_iShCur) {
-    with (frames['frTabs'].document.all) {
-     tdTab[iTab].style.background=c_rgszClr[1];
-    }
-   }
-  }
- }
-}
-
-function fnSetActiveSheet(iSh)
-{
- if (iSh!=g_iShCur) {
-  fnSetTabProps(g_iShCur,false);
-  fnSetTabProps(iSh,true);
-  g_iShCur=iSh;
- }
-}
-
- window.g_iIEVer=fnGetIEVer();
- if (window.g_iIEVer>=4)
-  fnBuildFrameset();
-//-->
-</script>
-<![endif]><!--[if gte mso 9]><xml>
- <x:ExcelWorkbook>
-  <x:ExcelWorksheets>
-   <x:ExcelWorksheet>
-    <x:Name>!! 필독 !!</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet001.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>빅토리아 아일랜드</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet002.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>엘나스 산맥</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet003.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>루더스 호수</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet004.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>아쿠아로드</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet005.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>니할 사막</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet006.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>무릉도원</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet007.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>미나르숲  시간의 신전</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet008.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>해외여행</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet009.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>레이드 보스</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet010.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>문서 역사다른 데이터베이스로 이동</x:Name>
-    <x:WorksheetSource HRef="아르테일%20몬스터%20데이터베이스.files/sheet011.htm"/>
-   </x:ExcelWorksheet>
-  </x:ExcelWorksheets>
-  <x:Stylesheet HRef="아르테일%20몬스터%20데이터베이스.files/stylesheet.css"/>
-  <x:WindowHeight>12165</x:WindowHeight>
-  <x:WindowWidth>28800</x:WindowWidth>
-  <x:WindowTopX>0</x:WindowTopX>
-  <x:WindowTopY>0</x:WindowTopY>
-  <x:ActiveSheet>8</x:ActiveSheet>
-  <x:FirstVisibleSheet>3</x:FirstVisibleSheet>
-  <x:ProtectStructure>False</x:ProtectStructure>
-  <x:ProtectWindows>False</x:ProtectWindows>
- </x:ExcelWorkbook>
-</xml><![endif]-->
-</head>
-
-<frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
- <frame src="아르테일%20몬스터%20데이터베이스.files/sheet009.htm" name="frSheet">
- <frame src="아르테일%20몬스터%20데이터베이스.files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
- <noframes>
-  <body>
-   <p>이 페이지에는 프레임이 있지만 사용 중인 브라우저에서 프레임을 지원하지 않습니다.</p>
-  </body>
- </noframes>
-</frameset>
+      </div>
+  </div>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="0b16c65c5907cc6f0bf41b7a-|49" defer></script></body>
+<footer>
+  <div style="height:30px;"></div>
+  <div class="container text-center">
+  </div>
+</footer>
 </html>
